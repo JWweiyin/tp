@@ -51,6 +51,7 @@ Example of Usage:
 Expected outcome:
 
 ![](assets/ug/adddeck.png)
+
 ### Viewing all decks: `view`
 
 Displays the names of all decks.
@@ -88,6 +89,7 @@ Expected outcome:
 ### Entering a deck: `enter`
 
 Expected outcome: 
+
 ![](assets/ug/enter.png)
 ### Testing flashcards within a deck: `test`
 
@@ -134,6 +136,7 @@ Flashcards with descriptions matching the search terms are displayed on the scre
 Format: `find <search terms>`
 
 Expected outcome:
+
 ![](assets/ug/find.png)
 ### Exiting the app: `bye`
 Exits the CardLI application within the Command Line Interface.
@@ -145,7 +148,8 @@ Format: `bye`
 Expected outcome:
 
 ![](assets/ug/bye.png)
----
+<hr>
+
 ## Deck Menu
 
 ### Adding a flashcard `add`
